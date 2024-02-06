@@ -8,8 +8,8 @@ class ChipsToday extends StatefulWidget {
 
   final List<String> textsOfChips = [
     "Fazendo checkout (1)",
-    "Chegando em breve (1)",
-    "Programados (1)",
+    "Chegando em breve (2)",
+    "Programados (4)",
     "Análise pendente (1)",
     "Hóspedes no momento (1)"];
 
